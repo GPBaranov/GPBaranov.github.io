@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | My Site</title>
+    <link>https://gpbaranov.github.io/en/tags/markdown/</link>
+      <atom:link href="https://gpbaranov.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gpbaranov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://gpbaranov.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://gpbaranov.github.io/en/post/01/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя была насыщенной! Вот несколько ключевых событий:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 Разобрался с темой &lt;strong&gt;рекурсивных алгоритмов&lt;/strong&gt; – оказалось проще, чем казалось сначала.&lt;/li&gt;
+&lt;li&gt;🔬 На лабораторной по физике сломали эксперимент, но зато узнали, как не надо делать.&lt;/li&gt;
+&lt;li&gt;🔄 Наконец-то понял, как работает &lt;strong&gt;замыкание&lt;/strong&gt; в программировании. Теперь код выглядит чище!&lt;/li&gt;
+&lt;li&gt;📖 Начал читать книгу про &lt;strong&gt;парадигмы программирования&lt;/strong&gt; – мозг кипит, но это интересно.&lt;/li&gt;
+&lt;li&gt;🏃‍♂️ Вышел из режима &amp;ldquo;учеба-дом&amp;rdquo; и погулял – природа помогает перезагрузиться.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Как прошла твоя неделя? Делись в комментариях! 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>https://gpbaranov.github.io/en/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/en/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://gpbaranov.github.io/en/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/en/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>https://gpbaranov.github.io/en/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/en/project/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
