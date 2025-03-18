@@ -5,12 +5,24 @@
     <link>https://gpbaranov.github.io/tags/markdown/</link>
       <atom:link href="https://gpbaranov.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gpbaranov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://gpbaranov.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://gpbaranov.github.io/post/02/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;итоги-учебной-недели&#34;&gt;Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;Еще одна неделя позади! Разбирались с алгоритмами и структурами данных, углубились в основы Python, а также познакомились с принципами работы операционных систем.&lt;/p&gt;
+&lt;p&gt;Больше всего впечатлила тема многопоточности — оказалось, что параллельные вычисления применяются буквально везде. Теперь хочется протестировать это на практике.&lt;/p&gt;
+&lt;p&gt;Как у вас дела с учебой? Было что-то особенно сложное или интересное? Делитесь!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
