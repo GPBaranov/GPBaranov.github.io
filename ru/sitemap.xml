@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://gpbaranov.github.io/tags/academic/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://gpbaranov.github.io/post/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +56,90 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://gpbaranov.github.io/post/"
+                />
+  </url><url>
+    <loc>https://gpbaranov.github.io/tags/hugo-blox/</loc>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/tags/hugo-blox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/tags/hugo-blox/"
+                />
+  </url><url>
+    <loc>https://gpbaranov.github.io/tags/markdown/</loc>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://gpbaranov.github.io/tags/</loc>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://gpbaranov.github.io/post/05/</loc>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/post/05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/post/05/"
+                />
+  </url><url>
+    <loc>https://gpbaranov.github.io/publication/05/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/publication/05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/publication/05/"
+                />
+  </url><url>
+    <loc>https://gpbaranov.github.io/publication/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/publication/"
                 />
   </url><url>
     <loc>https://gpbaranov.github.io/tags/hugo/</loc>
@@ -72,34 +156,6 @@
                 href="https://gpbaranov.github.io/tags/hugo/"
                 />
   </url><url>
-    <loc>https://gpbaranov.github.io/tags/hugo-blox/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gpbaranov.github.io/en/tags/hugo-blox/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://gpbaranov.github.io/tags/hugo-blox/"
-                />
-  </url><url>
-    <loc>https://gpbaranov.github.io/tags/markdown/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gpbaranov.github.io/en/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://gpbaranov.github.io/tags/markdown/"
-                />
-  </url><url>
     <loc>https://gpbaranov.github.io/project/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,20 +168,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://gpbaranov.github.io/project/"
-                />
-  </url><url>
-    <loc>https://gpbaranov.github.io/tags/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gpbaranov.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://gpbaranov.github.io/tags/"
                 />
   </url><url>
     <loc>https://gpbaranov.github.io/tags/wowchemy/</loc>
@@ -145,44 +187,100 @@
     <loc>https://gpbaranov.github.io/post/04/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/post/04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/post/04/"
+                />
   </url><url>
     <loc>https://gpbaranov.github.io/publication/04/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gpbaranov.github.io/publication/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://gpbaranov.github.io/en/publication/"
+                href="https://gpbaranov.github.io/en/publication/04/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://gpbaranov.github.io/publication/"
+                href="https://gpbaranov.github.io/publication/04/"
                 />
   </url><url>
     <loc>https://gpbaranov.github.io/project/hugo/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/project/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/project/hugo/"
+                />
   </url><url>
     <loc>https://gpbaranov.github.io/publication/03/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/publication/03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/publication/03/"
+                />
   </url><url>
     <loc>https://gpbaranov.github.io/post/03/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/post/03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/post/03/"
+                />
   </url><url>
     <loc>https://gpbaranov.github.io/post/02/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/post/02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/post/02/"
+                />
   </url><url>
     <loc>https://gpbaranov.github.io/publication/02/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/publication/02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/publication/02/"
+                />
   </url><url>
     <loc>https://gpbaranov.github.io/post/01/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
@@ -252,34 +350,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://gpbaranov.github.io/teaching/js/"
-                />
-  </url><url>
-    <loc>https://gpbaranov.github.io/teaching/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gpbaranov.github.io/en/teaching/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://gpbaranov.github.io/teaching/python/"
-                />
-  </url><url>
-    <loc>https://gpbaranov.github.io/tags/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gpbaranov.github.io/en/tags/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://gpbaranov.github.io/tags/python/"
                 />
   </url><url>
     <loc>https://gpbaranov.github.io/teaching/</loc>

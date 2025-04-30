@@ -5,7 +5,7 @@
     <link>https://gpbaranov.github.io/en/tags/hugo/</link>
       <atom:link href="https://gpbaranov.github.io/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gpbaranov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,35 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://gpbaranov.github.io/en/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://gpbaranov.github.io/en/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://gpbaranov.github.io/en/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://gpbaranov.github.io/en/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://gpbaranov.github.io/en/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://gpbaranov.github.io/en/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Scientist’s Website with Hugo Academic</title>
+      <link>https://gpbaranov.github.io/en/project/hugo/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;scientists-website-with-hugo-academic-when-science-meets-technology&#34;&gt;Scientist’s Website with Hugo Academic: When Science Meets Technology&lt;/h1&gt;
+&lt;h2 id=&#34;why-does-every-researcher-need-a-website-today&#34;&gt;Why Does Every Researcher Need a Website Today?&lt;/h2&gt;
+&lt;p&gt;The internet has become the main channel of scientific communication. Presentations, papers, projects, courses — people search for and find all of this online. In this context, a personal website is no longer a luxury — it’s a part of your academic identity, almost like journal publications or conference participation.&lt;/p&gt;
+&lt;p&gt;And this is where &lt;strong&gt;Hugo Academic&lt;/strong&gt; comes into play — not just a theme, but a whole ecosystem for building a stylish and functional academic website.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-hugo-academic-and-why-is-it-convenient&#34;&gt;What Is Hugo Academic and Why Is It Convenient?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is built on the Hugo static site generator. This means your website will be fast, reliable, and won&amp;rsquo;t require servers or databases. All you need are text files and a bit of structure. The result is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A modern, responsive, and professional-looking website.&lt;/li&gt;
+&lt;li&gt;A flexible structure — from publications and projects to courses and CVs.&lt;/li&gt;
+&lt;li&gt;Easy updates — everything is edited as plain text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Plus, the theme is actively maintained and developed, so you’re not left alone with the documentation.&lt;/p&gt;
+&lt;h2 id=&#34;how-can-you-use-the-website&#34;&gt;How Can You Use the Website?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is tailored to the real needs of researchers. Here’s how you can customize it:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt;: Format journal articles, books, and preprints, and add source links or PDFs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research&lt;/strong&gt;: Share project descriptions, methodologies, and results.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt;: Create course pages, upload schedules, materials, and assignments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;News and Notes&lt;/strong&gt;: Post about conferences, share insights, or write scientific blog-style reviews.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CV&lt;/strong&gt;: Keep your entire professional development in one place, always up to date.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;in-summary&#34;&gt;In Summary&lt;/h2&gt;
+&lt;p&gt;A website powered by Hugo Academic is a way to talk about your research informally, accessibly, and professionally. It’s not just a portfolio — it’s a tool for self-identification within the academic community. The simplicity of the technology combines with a wealth of features, and the final result looks solid and modern.&lt;/p&gt;
+&lt;p&gt;A website that works for you — that’s what Hugo Academic is all about.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

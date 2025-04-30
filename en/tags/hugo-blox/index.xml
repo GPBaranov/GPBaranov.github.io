@@ -5,7 +5,7 @@
     <link>https://gpbaranov.github.io/en/tags/hugo-blox/</link>
       <atom:link href="https://gpbaranov.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gpbaranov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
@@ -13,20 +13,84 @@
     </image>
     
     <item>
-      <title>Моя неделя</title>
+      <title>My Week</title>
+      <link>https://gpbaranov.github.io/en/post/05/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📚 Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The week was productive and varied. Here&amp;rsquo;s what I managed to do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧪 Completed a lab project on modeling — had to wrestle with equations, but the result turned out surprisingly good.&lt;/li&gt;
+&lt;li&gt;💻 Practiced writing multithreaded code in C++ — started to grasp thread synchronization more clearly.&lt;/li&gt;
+&lt;li&gt;📊 Learned the basics of data visualization in Python using Seaborn — the graphs are now much more insightful.&lt;/li&gt;
+&lt;li&gt;📝 Drafted the structure for my term paper — ready to move on to implementation with confidence.&lt;/li&gt;
+&lt;li&gt;🎓 Attended a student seminar — listened to an insightful talk on distributed computing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I’ve gained more knowledge — and even more motivation. A week well spent!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://gpbaranov.github.io/en/post/04/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-what-got-done-this-week&#34;&gt;🗓 What Got Done This Week&lt;/h2&gt;
+&lt;p&gt;This week was productive — I really felt how important it is to balance theory and practice.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finished a graph visualization project in Python using the NetworkX library. Surprisingly flexible, especially when combined with Matplotlib.&lt;/li&gt;
+&lt;li&gt;Learned core Git operations at the command line level. Creating branches, resolving conflicts, pull requests — everything makes much more sense now.&lt;/li&gt;
+&lt;li&gt;Within the algorithms course, explored optimization methods on graphs. Seeing Dijkstra’s algorithm applied to real problems makes it feel far less abstract.&lt;/li&gt;
+&lt;li&gt;Started gathering materials for my mini-research project on &amp;ldquo;parallel computing and its applications in big data processing.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In short: I’ve gained more knowledge — and even more questions. And that’s probably the best outcome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://gpbaranov.github.io/en/post/03/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/en/post/03/</guid>
+      <description>&lt;h1 id=&#34;-weekly-summary--brief-and-to-the-point&#34;&gt;📍 Weekly Summary — Brief and to the Point&lt;/h1&gt;
+&lt;p&gt;The week was quite intense, but not overwhelming. Here are the main highlights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔄 We explored sorting algorithms — compared efficiency, calculated complexity, and tested them on real arrays.&lt;/li&gt;
+&lt;li&gt;⚙️ In our OOP practice, we wrote our own classes with operator overloading — finally starting to see why it matters beyond textbooks.&lt;/li&gt;
+&lt;li&gt;💬 Got our first course project topics — time to start defining the tasks and thinking about the architecture.&lt;/li&gt;
+&lt;li&gt;🧠 Took part in a mini-discussion on neural networks — not too deep, but it definitely sparked more interest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re gradually reaching the point where there&amp;rsquo;s enough knowledge to make conscious decisions in code. That feels good.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://gpbaranov.github.io/en/post/02/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://gpbaranov.github.io/en/post/02/</guid>
+      <description>&lt;h1 id=&#34;academic-week-summary&#34;&gt;Academic Week Summary&lt;/h1&gt;
+&lt;p&gt;Another week is behind us! We worked through algorithms and data structures, delved into Python fundamentals, and got familiar with the principles of operating systems.&lt;/p&gt;
+&lt;p&gt;The topic that impressed me most was multithreading — turns out parallel computing is used almost everywhere. Now I really want to try it in practice.&lt;/p&gt;
+&lt;p&gt;How’s your studying going? Was there anything particularly challenging or exciting? Feel free to share!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
       <link>https://gpbaranov.github.io/en/post/01/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://gpbaranov.github.io/en/post/01/</guid>
-      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
-&lt;p&gt;Эта неделя была насыщенной! Вот несколько ключевых событий:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;-weekly-summary&#34;&gt;📅 Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was eventful! Here are a few key highlights:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;🎓 Разобрался с темой &lt;strong&gt;рекурсивных алгоритмов&lt;/strong&gt; – оказалось проще, чем казалось сначала.&lt;/li&gt;
-&lt;li&gt;🔬 На лабораторной по физике сломали эксперимент, но зато узнали, как не надо делать.&lt;/li&gt;
-&lt;li&gt;🔄 Наконец-то понял, как работает &lt;strong&gt;замыкание&lt;/strong&gt; в программировании. Теперь код выглядит чище!&lt;/li&gt;
-&lt;li&gt;📖 Начал читать книгу про &lt;strong&gt;парадигмы программирования&lt;/strong&gt; – мозг кипит, но это интересно.&lt;/li&gt;
-&lt;li&gt;🏃‍♂️ Вышел из режима &amp;ldquo;учеба-дом&amp;rdquo; и погулял – природа помогает перезагрузиться.&lt;/li&gt;
+&lt;li&gt;🎓 Got the hang of &lt;strong&gt;recursive algorithms&lt;/strong&gt; – turned out easier than it seemed at first.&lt;/li&gt;
+&lt;li&gt;🔬 Broke the experiment during the physics lab, but at least we learned what &lt;em&gt;not&lt;/em&gt; to do.&lt;/li&gt;
+&lt;li&gt;🔄 Finally understood how &lt;strong&gt;closures&lt;/strong&gt; work in programming. Now the code looks cleaner!&lt;/li&gt;
+&lt;li&gt;📖 Started reading a book on &lt;strong&gt;programming paradigms&lt;/strong&gt; – it’s mind-bending, but fascinating.&lt;/li&gt;
+&lt;li&gt;🏃‍♂️ Broke out of the &amp;ldquo;study-home&amp;rdquo; loop and went for a walk – nature really helps reboot.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Как прошла твоя неделя? Делись в комментариях! 😊&lt;/p&gt;
+&lt;p&gt;How was your week? Share in the comments! 😊&lt;/p&gt;
 </description>
     </item>
     
