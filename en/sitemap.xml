@@ -142,6 +142,62 @@
                 href="https://gpbaranov.github.io/en/publication/"
                 />
   </url><url>
+    <loc>https://gpbaranov.github.io/en/project/linux-basic-course/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/project/linux-basic-course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/project/linux-basic-course/"
+                />
+  </url><url>
+    <loc>https://gpbaranov.github.io/en/tags/linux/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/tags/linux/"
+                />
+  </url><url>
+    <loc>https://gpbaranov.github.io/en/project/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/project/"
+                />
+  </url><url>
+    <loc>https://gpbaranov.github.io/en/tags/wowchemy/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://gpbaranov.github.io/tags/wowchemy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://gpbaranov.github.io/en/tags/wowchemy/"
+                />
+  </url><url>
     <loc>https://gpbaranov.github.io/en/tags/hugo/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,20 +226,6 @@
                 href="https://gpbaranov.github.io/en/post/04/"
                 />
   </url><url>
-    <loc>https://gpbaranov.github.io/en/project/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://gpbaranov.github.io/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gpbaranov.github.io/en/project/"
-                />
-  </url><url>
     <loc>https://gpbaranov.github.io/en/publication/04/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -210,20 +252,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://gpbaranov.github.io/en/project/hugo/"
-                />
-  </url><url>
-    <loc>https://gpbaranov.github.io/en/tags/wowchemy/</loc>
-    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://gpbaranov.github.io/tags/wowchemy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://gpbaranov.github.io/en/tags/wowchemy/"
                 />
   </url><url>
     <loc>https://gpbaranov.github.io/en/publication/03/</loc>
